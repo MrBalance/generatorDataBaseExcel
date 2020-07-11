@@ -1,0 +1,6 @@
+{
+  "driverClassName": "com.mysql.jdbc.Driver",
+  "jdbc_url": "jdbc:mysql://47.106.65.135:3306/customs-service-platform-zlfw1.0?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true",
+  "jdbc_username": "root",
+  "jdbc_password": "7f14966399355b49"
+}
